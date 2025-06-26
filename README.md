@@ -8,7 +8,7 @@ Movie Mania is a web application that allows users to discover popular movies an
 
 ## How to Use ?
 
- Open the index.html file in your web browser or simply checkout the deployed website [here](https://amit712singhal.github.io/Movie-Mania/).
+ Open the index.html file in your web browser or simply checkout the deployed website [here](https://singhal-amit.github.io/Movie-Mania/).
  
 - The main page will display a list of popular movies fetched from the TMDB API.
 - Use the search bar to find specific movies by their title.
